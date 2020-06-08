@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "14srFX9egunFAx8n8+t3zVGbDaPRfjrqbJBpjw45g2qIZDbDq4hCn1tZ8gcYVSktjZ8geG0UOlGg7kCKzekSyw==",
+  "success": true,
+  "projectFilePath": "C:\\Tutorials\\RazorPages\\HttpClientDemo\\HttpClientDemoApp\\HttpClientDemo\\HttpClientDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\startklar\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
+    "C:\\Users\\startklar\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
